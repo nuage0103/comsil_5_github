@@ -1,2 +1,3 @@
 newfile
 newfile1
+newfile2
