@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 newfile3
+=======
+newfile3
+>>>>>>> branch2
