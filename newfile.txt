@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-newfile3
-=======
-newfile3
->>>>>>> branch2
+newfile
+newfile1
